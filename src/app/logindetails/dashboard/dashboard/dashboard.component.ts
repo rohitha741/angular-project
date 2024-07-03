@@ -98,10 +98,10 @@ openDialog(){
 public data=[
   {
     name: "Angular",
-    fee: 20000
+    fee: 5000
   },
   {
-    name:"rohitha",
+    name:"nani",
     age:25
   }
 ]
