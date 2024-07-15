@@ -3,22 +3,24 @@
   }
   
   .logo{
-    height: 30px;
-    margin-right: -10px;
+    height: 40px;
+    margin-right: 16px;
   }
   .login{
     margin: 10px;
-    color: white;
   }
   .home{
     margin-right: 25px;
-    color: white;
   }
   .contacts{
     margin-right: 25px;
   }
   .about{
     margin-right: 25px;
+  }
+  .country{
+    margin-right: 25px;
+    color:rgb(8, 4, 4);
   }
   .sidenav {
     position: absolute;
@@ -46,6 +48,6 @@
     background: white;
   }
   .btn:hover{
-    background:white;
+    background: rgb(110, 161, 202);
     color: white;
   }
